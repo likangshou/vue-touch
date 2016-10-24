@@ -10501,7 +10501,6 @@
 	/*global define*/
 	;(function() {
 
-
 	    var Touch = __webpack_require__(4);
 	    var vueTouch = {};
 	    

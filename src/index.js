@@ -1,7 +1,6 @@
 /*global define*/
 ;(function() {
 
-
     var Touch = require('./../lib/touch.js');
     var vueTouch = {};
     

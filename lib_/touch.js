@@ -2,6 +2,8 @@ var touch = touch || {};
 
 (function(doc, exports) {
     'use strict';
+
+    
     var os = (function() {
         var navigator = window.navigator,
         userAgent = navigator.userAgent,
